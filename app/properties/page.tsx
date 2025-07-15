@@ -18,7 +18,6 @@ interface Property {
   bathrooms?: number
   area?: number
   is_available?: boolean
-  // Agrega otros campos según tu API
 }
 
 export default function PropertiesPage() {

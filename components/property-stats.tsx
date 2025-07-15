@@ -11,7 +11,6 @@ interface PropertyStats {
   average_price: number
   min_price: number
   max_price: number
-  // Agrega otros campos según tu API
 }
 
 export function PropertyStats() {

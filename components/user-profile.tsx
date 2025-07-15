@@ -12,7 +12,6 @@ interface UserData {
   email: string
   first_name?: string
   last_name?: string
-  // Agrega otros campos según tu API
 }
 
 export function UserProfile() {
